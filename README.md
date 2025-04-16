@@ -41,6 +41,7 @@ Pits - Handwire Model Development<br />
 GetRektRyan - PCB Design and Wireless Support<br /> 
 Moose - Build Guide Design<br /> 
 PossumOG - PCB Assembly Design<br /> 
+MerkariG23 - Animations and Renders<br /> 
 HeuristicBishop - PCB Design<br /> 
 ptigad - Model Design<br /> 
 
