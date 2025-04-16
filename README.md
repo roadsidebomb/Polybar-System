@@ -33,7 +33,7 @@ Adapt — remix, transform, and build upon the material<br />
 ## 💸 Buy a Controller or Solderless Kit
 
 Don't have a 3D printer, or want to buy all of the parts yourself?
-You can find complete controllers, solderless kit, and accessories from our official store, and our worldwide partner vendors.
+You can find complete controllers, solderless kits, and accessories from our official store, and our worldwide partner vendors.
 
 [Official Three Pieces Controller Shop](https://threepieces.net/) West Coast United States<br/> 
 [Brazil Store Name Here](https://www.google.com/) Brazil<br /> 
