@@ -14,7 +14,7 @@ You can find the latest version of the print files and build guide at [our Print
 
 ## 🎧 Discord 
 
-<p>Join us [on Discord!](https://discord.gg/2qrFx3mJ9F)<br /> 
+Join us [on Discord!](https://discord.gg/2qrFx3mJ9F)
 If you have questions regarding downloads, editing of files or need help with assembling your controller, drop us a line. We won't bite!</p>
 
 ## 🔨 Contributing
