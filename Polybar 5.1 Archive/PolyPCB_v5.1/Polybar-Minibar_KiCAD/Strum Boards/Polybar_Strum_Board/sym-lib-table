@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Polybar")(type "Legacy")(uri "${POLYBAR}/RKJXV1224005.lib")(options "")(descr ""))
+)

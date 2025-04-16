@@ -1,0 +1,12 @@
+(footprint "test_point_2" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "TP1" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp 8dd4fc73-ae4b-4e98-8a95-b2ca81cdf58a)
+  )
+  (fp_text value "Val**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp 6f0bf0eb-c2b7-476e-84dc-7d5e772de70a)
+  )
+  (pad "1" thru_hole circle (at -0.25 0 270) (size 2.5 2.5) (drill 1.5) (layers "*.Cu" "*.Mask") (tstamp c7374635-7460-46ba-85c0-48bac0576d60))
+)
