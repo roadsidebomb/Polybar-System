@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-<img src="https://imgur.com/tprsFqa" width="30%" alt="Polybar & Minibar">
+<img src="https://imgur.com/tprsFqa" width="30%" alt="Polybar System">
 </div>
 
 
