@@ -29,7 +29,7 @@ If you have ideas for a new project, or existing ones, drop us a line at the Dis
 Don't have a 3D printer, or want to buy all of the parts yourself?
 You can find complete controllers, solderless kits, and accessories from our official store, and our worldwide partner vendors.
 
-[Official Three Pieces Controller Shop](https://threepieces.net/) United States<br/>
+[Official Three Pieces Controllers Shop](https://threepieces.net/) United States<br/>
 [Foucault Customs](https://foucaultcustoms.com.br/) Brazil<br /> 
 [New Zealand Store Name Here](https://www.google.com/) New Zealand & Australia<br /> 
 [UK Store Name Here](https://www.google.com/) United Kingdom<br /> 
