@@ -35,6 +35,15 @@ You can find complete controllers, solderless kits, and accessories from our off
 [Triple Dee](https://tripledee.co.uk/) United Kingdom<br /> 
 [East Coast Store Name Here](https://www.google.com/) United States<br /> 
 
+## 🪪 Credits
+
+Pits - Handwire Model Development
+GetRektRyan - PCB Design and Wireless Support
+Moose - Build Guide Design
+PossumOG - PCB Assembly Design
+HeuristicBishop - PCB Design
+ptigad - Model Design
+
 ## 💎 License
 
 This project utilizes the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.<br /> 
