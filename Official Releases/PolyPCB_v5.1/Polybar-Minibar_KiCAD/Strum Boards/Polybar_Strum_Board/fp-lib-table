@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "Polybar")(type "KiCad")(uri "/home/Polybar-Minibar-3D-Print-Files/Official Releases/PolyPCB v5.1/Polybar-Minibar KiCAD/Libraries/Controller_Inputs.pretty")(options "")(descr ""))
-)
