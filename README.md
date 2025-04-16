@@ -37,6 +37,7 @@ You can find complete controllers, solderless kits, and accessories from our off
 
 ## 🪪 Credits
 
+roadsidebomb - Creator<br /> 
 Pits - Handwire Model Development<br /> 
 GetRektRyan - PCB Design and Wireless Support<br /> 
 Moose - Build Guide Design<br /> 
