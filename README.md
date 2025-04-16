@@ -9,8 +9,11 @@
 **3D Printable Guitar Controllers!**
 
 The Polybar project, by Three Pieces Controllers, is a modular 3D printable controller system for music games like YARG, Clone Hero, and others.
+
+This GitHub page is dedicated to archiving previous versions of the Polybar, and as a download source for PCB source files and gerbers.
+Please see the [archive branch here](https://github.com/roadsidebomb/Polybar-Minibar-3D-Print-Files/tree/archive) for legacy project downloads.
   
-You can find the latest version of the print files and build guide at [our Printables page](https://www.printables.com/model/277183-polybar-system-3d-printed-guitar-controllers). Download includes the print ready STL files, project STEP file and the complete build guide!
+You can find the latest version of the print files and build guide at [our Printables page](https://www.printables.com/model/277183-polybar-system-3d-printed-guitar-controllers). Printables download includes the print ready STL files, project STEP file and the complete build guide!
 
 ## 🎧 Discord 
 
