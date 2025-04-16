@@ -37,12 +37,12 @@ You can find complete controllers, solderless kits, and accessories from our off
 
 ## 🪪 Credits
 
-Pits - Handwire Model Development
-GetRektRyan - PCB Design and Wireless Support
-Moose - Build Guide Design
-PossumOG - PCB Assembly Design
-HeuristicBishop - PCB Design
-ptigad - Model Design
+Pits - Handwire Model Development<br /> 
+GetRektRyan - PCB Design and Wireless Support<br /> 
+Moose - Build Guide Design<br /> 
+PossumOG - PCB Assembly Design<br /> 
+HeuristicBishop - PCB Design<br /> 
+ptigad - Model Design<br /> 
 
 ## 💎 License
 
