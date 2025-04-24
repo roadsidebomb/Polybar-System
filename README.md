@@ -15,10 +15,15 @@ Please see the [archive branch here](https://github.com/roadsidebomb/Polybar-Sys
   
 You can find the latest version of the print files and build guide at [our Printables page](https://www.printables.com/model/277183-polybar-system-3d-printed-guitar-controllers). Printables download includes the print ready STL files, project STEP file and the complete build guide!
 
-<iframe src="[https://giphy.com/embed/video-id](https://github.com/user-attachments/assets/f8864928-840f-4b3b-a5e5-f74abd123dcd)" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+[![Watch the video](https://github.com/user-attachments/assets/ef21e8b6-d7fc-4c0b-a8a9-ca4733a8a931)](https://github-production-user-asset-6210df.s3.amazonaws.com/119377524/436821567-f8864928-840f-4b3b-a5e5-f74abd123dcd.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250424%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250424T030639Z&X-Amz-Expires=300&X-Amz-Signature=cbd7cc194987d6115d7b3b3d0f09c438470bdeee2eecd6e794d02751375ebfad&X-Amz-SignedHeaders=host)
 
 
 https://github.com/user-attachments/assets/f8864928-840f-4b3b-a5e5-f74abd123dcd
+
+https://github-production-user-asset-6210df.s3.amazonaws.com/119377524/436821567-f8864928-840f-4b3b-a5e5-f74abd123dcd.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250424%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250424T030639Z&X-Amz-Expires=300&X-Amz-Signature=cbd7cc194987d6115d7b3b3d0f09c438470bdeee2eecd6e794d02751375ebfad&X-Amz-SignedHeaders=host
+
+![polybartitle](https://github.com/user-attachments/assets/ef21e8b6-d7fc-4c0b-a8a9-ca4733a8a931)
+
 
 ## 🎧 Discord 
 
