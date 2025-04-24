@@ -15,7 +15,7 @@ Please see the [archive branch here](https://github.com/roadsidebomb/Polybar-Sys
   
 You can find the latest version of the print files and build guide at [our Printables page](https://www.printables.com/model/277183-polybar-system-3d-printed-guitar-controllers). Printables download includes the print ready STL files, project STEP file and the complete build guide!
 
-<video src="https://threepieces.net/cdn/shop/videos/c/vp/f0f8a49ef1e340a08ef7f6d31b210232/f0f8a49ef1e340a08ef7f6d31b210232.HD-1080p-7.2Mbps-46238371.mp4?v=0" width="320" height="240" controls></video>
+https://github.com/user-attachments/assets/f8864928-840f-4b3b-a5e5-f74abd123dcd
 
 ## 🎧 Discord 
 
