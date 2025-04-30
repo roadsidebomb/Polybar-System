@@ -32,7 +32,7 @@ You can find complete controllers, solderless kits, and accessories from our off
 [Official Three Pieces Controllers Shop](https://threepieces.net/) United States<br/>
 [Foucault Customs](https://foucaultcustoms.com.br/) Brazil<br /> 
 [RKNZ](https://rknz.nz/ ) New Zealand & Australia<br /> 
-[Triple Dee](https://tripledee.co.uk/) United Kingdom<br /> 
+[Triple Dee](https://tripledee.co.uk/) United Kingdom & Europe<br /> 
 [Pier Printed Products](https://pierprintedproducts.myshopify.com/) United States<br /> 
 
 ## 🪪 Credits
